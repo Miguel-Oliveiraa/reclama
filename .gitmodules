@@ -1,0 +1,9 @@
+[submodule "frontend-reclama"]
+	path = frontend-reclama
+	url = https://github.com/Miguel-Oliveiraa/frontend-reclama
+[submodule "backend-reclama"]
+	path = backend-reclama
+	url = https://github.com/gilbertomoj/backend-reclama
+[submodule "reclama-mobile"]
+	path = reclama-mobile
+	url = https://github.com/joaomadruga/reclama-mobile
