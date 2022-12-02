@@ -49,7 +49,7 @@ yarn dev
 
 **João Madruga** - (https://github.com/joaomadruga)
 
-**Miguel Oliveira* - (https://github.com/Miguel-Oliveiraa)
+**Miguel Oliveira** - (https://github.com/Miguel-Oliveiraa)
 
 **Allan Cunha** - ()
 
